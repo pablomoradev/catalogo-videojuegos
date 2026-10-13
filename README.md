@@ -8,7 +8,7 @@ Aplicación web para registrar los videojuegos que se han jugado, se están juga
 
 <br>
 
-<a href="https://kopolog.github.io/catalogo-videojuegos/"><b>Ver demostración en línea</b></a>
+<a href="https://pablomoradev.github.io/catalogo-videojuegos/"><b>Ver demostración en línea</b></a>
 
 <br>
 <br>
@@ -34,7 +34,7 @@ Se trata de un proyecto personal de aprendizaje, cuyo objetivo es afianzar Java 
 
 ## Demostración
 
-La aplicación está disponible en [kopolog.github.io/catalogo-videojuegos](https://kopolog.github.io/catalogo-videojuegos/).
+La aplicación está disponible en [pablomoradev.github.io/catalogo-videojuegos](https://pablomoradev.github.io/catalogo-videojuegos/).
 
 El servidor de la API se aloja en un plan gratuito que se suspende tras un periodo de inactividad. Por ello, en la primera visita los datos pueden tardar entre 30 y 50 segundos en aparecer mientras el servicio se reactiva. Las visitas posteriores responden con normalidad.
 
